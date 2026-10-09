@@ -1,4 +1,4 @@
-# HR Python Practice
+# HR Analytics Python
 
 This repository contains Python scripts submitted for my
 prerequisite challenge. The scripts demonstrate foundational
