@@ -1,4 +1,4 @@
-# HR Bonus Eligibility
+# HR Python Practice
 
 This repository contains Python scripts submitted for my
 prerequisite challenge. The scripts demonstrate foundational
